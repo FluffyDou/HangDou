@@ -1,0 +1,1 @@
+pyuic4 ui_dialog_calpha_flexible_fitting.ui -o ui_dialog_calpha_flexible_fitting.py
