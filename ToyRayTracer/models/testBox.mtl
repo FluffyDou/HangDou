@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Hand coded as sample for IGLU for SimpleDrawCornellBox6 Example
+
+newmtl White
+Ka 0.00 0.00 0.00
+Kd 0.76 0.75 0.50
+Ks 0.00 0.00 0.00
+
+newmtl Red
+Ka 0.00 0.00 0.00
+Kd 0.63 0.06 0.04
+Ks 0.00 0.00 0.00
+
+newmtl Green
+Ka 0.00 0.00 0.00
+Kd 0.15 0.48 0.09
+Ks 0.00 0.00 0.00
+
+
+
